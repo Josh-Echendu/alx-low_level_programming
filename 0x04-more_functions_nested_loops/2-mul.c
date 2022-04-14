@@ -1,6 +1,5 @@
 #include "main.h"
-#include <stdio.hi>
-:
+#include <stdio.h>
 /**
 * mul - multiply two numbers and print it
 * @a: first parameter
@@ -9,8 +8,11 @@
 */
 int mul(int a, int b)
 {
-	int a = 4, int b = 5 prod;
+	a = 4;
+	b = 5;
+	int prod;
 
-	prod = a * b
-		printf("the product is %d", prod);
+	prod = a * b;
+	return (1);
+	printf("the product is %d", prod);
 }
