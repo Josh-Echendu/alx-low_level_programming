@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
 * mul - multiply two numbers and print it
 * @a: first parameter
