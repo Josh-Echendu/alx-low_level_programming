@@ -8,11 +8,9 @@
 */
 int mul(int a, int b)
 {
-	a = 4;
-	b = 5;
 	int prod;
 
 	prod = a * b;
-	return (1);
+	return (prod);
 	printf("the product is %d", prod);
 }
