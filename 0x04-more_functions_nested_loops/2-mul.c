@@ -1,5 +1,6 @@
 #include "main.h"
-#include <stdio.h>
+#include <stdio.hi>
+:
 /**
 * mul - multiply two numbers and print it
 * @a: first parameter
